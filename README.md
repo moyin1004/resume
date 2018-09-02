@@ -30,11 +30,13 @@
 ---
 
 # 曾获荣誉
-* 2017.10 [全国大学生数学竞赛辽宁省二等奖](https://github.com/moyin1004/Resume/blob/master/math%20contest.jpg?raw=true)
-* 2017.09 全国大学生数学建模竞赛辽宁省一等奖
-* 2017.06 沈阳化工大学acm邀请赛专业组三等奖
-* 2017.05 沈阳工业大学ACM校赛二等奖
-* 2016.09 全国大学生数学建模竞赛国家二等奖
+* 2017.11 [第十二届沈阳工业大学ACM校赛二等奖](https://github.com/moyin1004/Resume/blob/master/acm_second_13th_sut.jpg?raw=true/)
+* 2017.10 [全国大学生数学竞赛辽宁省二等奖](https://github.com/moyin1004/Resume/blob/master/math%20contest.jpg?raw=true/)
+* 2017.09 [全国大学生数学建模竞赛辽宁省一等奖](https://note.youdao.com/)
+* 2017.06 [沈阳化工大学acm邀请赛专业组三等奖](https://github.com/moyin1004/Resume/blob/master/acm_third_6th_syuct.jpg?raw=true/)
+* 2017.04 [第十二届沈阳工业大学ACM校赛二等奖](https://github.com/moyin1004/Resume/blob/master/acm_second_12th_sut.jpg?raw=true/)
+* 2016.12 [全国大学生数学建模竞赛国家二等奖](https://github.com/moyin1004/Resume/blob/master/cumcm_2016.jpg?raw=true/)
+* 2016.09 [全国大学生数学建模竞赛辽宁省一等奖](https://github.com/moyin1004/Resume/blob/master/cumcm_liaoning.jpg?raw=true/)
 
 ---
 
