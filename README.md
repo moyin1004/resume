@@ -1,23 +1,26 @@
 # 个人信息
-* 关守兵 / 男 / 1997
-* 本科 / 沈阳工业大学土木工程系 / 2015.09.01-2019.07.10
-* Github：<https://github.com/moyin1004>
-* 期望职位：开发
 
----
+- 关守兵 / 男 / 1997
+- 本科 / 沈阳工业大学土木工程系 / 2015.09.01-2019.07.10
+- Github：<https://github.com/moyin1004>
+- 期望职位：C++后端开发
+- 手机：15541537853 
+- Email：<moyin1004@163.com>
 
-# 联系方式
-* 手机：15541537853
-* Email：<moyin1004@163.com>
-* QQ：979558204
-
----
+------
 
 # 技能清单
-* 编程语言：C / C++ / 熟练掌握基本数据结构与算法
-* 版本管理：Git
-* 英语：CET4
----
+
+- 编程语言：C / C++（C++11新特性 / STL）
+- Linux: 常用shell命令 / pthread线程库 / makefile工程管理 /  socket网络编程 / IO多路复用
+- 工具: vim / gcc / g++ / gdb / wireshark网络抓包工具
+- 理论：掌握 基本数据结构与算法 / TCP/IP协议
+- 设计模式：单例模式 / 简单工厂模式 / 工厂方法模式 / 代理模式 / 观察者模式
+- 版本管理：Git
+- 英语：CET4
+- 其他：OOP / UML类图 / 闭包 / Matlab
+
+------
 
 # 比赛经历
 * 2016.09 全国大学生数学建模竞赛
@@ -26,26 +29,29 @@
 > **A** 假设浮标的浮力，通过Matlab完成迭代算法不断对浮力进行修正，得出问题1、2的答案，然后通过层次分析算法确各条件对系泊系统的设计的影响权重，完成问题3。   
 > **R** 通过和两位队友的合作，成功得出问题结果并完成论文，参赛获得**2016全国大学生数学建模竞赛全国二等奖**。  
 
----
+------
 
 # 曾获荣誉
-* 2017.11 [第十二届沈阳工业大学ACM校赛二等奖](https://github.com/moyin1004/Resume/blob/master/acm_second_13th_sut.jpg?raw=true/)
-* 2017.10 [全国大学生数学竞赛辽宁省二等奖](https://github.com/moyin1004/Resume/blob/master/math%20contest.jpg?raw=true/)
-* 2017.09 [全国大学生数学建模竞赛辽宁省一等奖](https://github.com/moyin1004/Resume/blob/master/cumcm_2017.jpg)
-* 2017.06 [沈阳化工大学acm邀请赛专业组三等奖](https://github.com/moyin1004/Resume/blob/master/acm_third_6th_syuct.jpg?raw=true/)
-* 2017.04 [第十二届沈阳工业大学ACM校赛二等奖](https://github.com/moyin1004/Resume/blob/master/acm_second_12th_sut.jpg?raw=true/)
-* 2016.12 [全国大学生数学建模竞赛国家二等奖](https://github.com/moyin1004/Resume/blob/master/cumcm_2016.jpg?raw=true/)
-* 2016.09 [全国大学生数学建模竞赛辽宁省一等奖](https://github.com/moyin1004/Resume/blob/master/cumcm_liaoning.jpg?raw=true/)
 
----
+- 2017.11 [第十三届沈阳工业大学ACM校赛二等奖](https://github.com/moyin1004/Resume/blob/master/acm_second_13th_sut.jpg?raw=true/)
+- 2017.10 [全国大学生数学竞赛辽宁省二等奖](https://github.com/moyin1004/Resume/blob/master/math%20contest.jpg?raw=true/)
+- 2017.09 [全国大学生数学建模竞赛辽宁省一等奖](https://github.com/moyin1004/Resume/blob/master/cumcm_2017.jpg)
+- 2017.06 [沈阳化工大学ACM邀请赛专业组三等奖](https://github.com/moyin1004/Resume/blob/master/acm_third_6th_syuct.jpg?raw=true/)
+- 2017.04 [第十二届沈阳工业大学ACM校赛二等奖](https://github.com/moyin1004/Resume/blob/master/acm_second_12th_sut.jpg?raw=true/)
+- 2016.12 [全国大学生数学建模竞赛国家二等奖](https://github.com/moyin1004/Resume/blob/master/cumcm_2016.jpg?raw=true/)
+- 2016.09 [全国大学生数学建模竞赛辽宁省一等奖](https://github.com/moyin1004/Resume/blob/master/cumcm_liaoning.jpg?raw=true/)
+
+------
 
 # 自我介绍
-* 在大学期间一直坚持自学编程
-* 热爱编程，学习能力强
-* 对新技术充满好奇、不断探索提高
-* 工作态度认真负责，具有团队合作精神
 
----
+- Favorite：数学
+- 热爱编程，学习能力强，有较好的逻辑思维
+- 对新技术充满好奇、不断探索提高、在大学期间一直坚持自学编程
+- 具有团队合作精神（数学建模和ACM都是团队赛）
+
+------
 
 # 致谢
+
 感谢您阅读我的简历，期待能有机会和您共事。
